@@ -10,8 +10,8 @@ public class Main {
     // q2_vecAddition(0);
     // q2_vecAddition(1);
 
-    // q2_matrixMul(0);
-    // q2_matrixMul(1);
+    // q3_matrixMul(0);
+    // q3_matrixMul(1);
   }
 
   public static void q1_helloWorld() throws InterruptedException {
@@ -78,7 +78,7 @@ public class Main {
    * @param option <p>0 -> Using Thread class</p> <p>1 -> Using Executor class</p>
    * @throws InterruptedException
    */
-  public static void q2_matrixMul(int option) throws InterruptedException {
+  public static void q3_matrixMul(int option) throws InterruptedException {
     final int P = 4;
     final int m = 12;
     final int n = 2;
